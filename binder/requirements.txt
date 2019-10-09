@@ -1,5 +1,5 @@
 pandas
 numpy
 matplotlib
-pipegraph
-scikit-learn
+pipegraph==0.3.3
+scikit-learn==0.22
