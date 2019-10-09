@@ -1,6 +1,6 @@
 pandas
 numpy
 matplotlib
-pipegraph==0.3.3
+pipegraph
 os
-scikit-learn==0.22
+scikit-learn
